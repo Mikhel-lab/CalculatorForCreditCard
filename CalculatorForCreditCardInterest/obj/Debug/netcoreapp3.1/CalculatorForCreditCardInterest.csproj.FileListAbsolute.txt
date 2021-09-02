@@ -1,0 +1,13 @@
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.exe
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.deps.json
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.runtimeconfig.json
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.runtimeconfig.dev.json
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.dll
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\bin\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.pdb
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.dll
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.pdb
+C:\Users\SDSD DEV7\source\repos\CalculatorForCreditCardInterest\obj\Debug\netcoreapp3.1\CalculatorForCreditCardInterest.genruntimeconfig.cache
